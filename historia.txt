@@ -2,6 +2,8 @@ Estoy aprendiendo a dominar Git.
 
 Mi deseo es dominar a un nivel avanzado
 
+Anita Platzi tiene 41 años y nacio en Internet
+
 Para colaborar con otros desarrolladores y enseñar
 a lo que inician.
 
