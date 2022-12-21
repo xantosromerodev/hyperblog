@@ -33,3 +33,10 @@ body {
 #container h1 {
     font-size: 20px;
 }
+
+.footer {
+    background-color: #33A;
+    color: white;
+    padding: 10px;
+    text-align: left;
+}
